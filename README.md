@@ -1,6 +1,6 @@
 # 🍽️ Zomato Sales & Customer Review Dashboard
 
-This project presents a comprehensive Tableau dashboard designed to analyze and visualize Zomato’s fictional sales and customer feedback data. The goal is to provide actionable insights into customer behavior, sales trends, delivery performance, and review sentiment — simulating how food delivery businesses can monitor and optimize their operations.
+This project presents a comprehensive Tableau dashboard designed to analyze and visualize Zomato’s fictional sales and customer feedback data. The goal is to provide actionable insights into customer behavior, sales trends, delivery performance, and review sentiment simulating how food delivery businesses can monitor and optimize their operations.
 
 ## 🧾 Dataset Overview
 
