@@ -49,6 +49,12 @@ This dashboard is designed as a prototype for internal use by food delivery and 
 - Understand product-level sentiment
 - Prioritize improvements based on real-time KPIs
 
+## 📬 Contact
+
+**Aniket Chanda**  
+[LinkedIn](https://www.linkedin.com/in/aniket-c-54a2bb1b3)  
+📧 aniketchanda05.work@gmail.com
+
 ## 📸 Dashboard Preview
 
 ![Zomato Dashboard] <img width="1919" height="982" alt="zomata_sales_customer_review" src="https://github.com/user-attachments/assets/4d45a8cf-ce52-40de-a67f-e86053a46753" />
